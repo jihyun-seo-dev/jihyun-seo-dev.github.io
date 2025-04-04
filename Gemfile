@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "github-pages", "=228"
+gem "jekyll", "=3.9.3"
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
