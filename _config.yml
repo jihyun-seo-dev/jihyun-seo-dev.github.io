@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jihyun Seo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Backend Engineering** & System Architecture"
+  bio              : "Backend Engineering"
   location         : "Somewhere"
   email            :
   links:
